@@ -13,7 +13,3 @@ feed_exclude_prefixes:
   - https://github.com/chase-seibert/rsscombine
   - https://engineering-manager-blogs.herokuapp.com/
   - https://s3-us-west-2.amazonaws.com/rsscombine/
-feeds:
-  - http://feeds.feedburner.com/TechCrunch
-  - http://feeds.arstechnica.com/arstechnica/technology-lab
-  - http://www.reddit.com/r/technology/.rss
