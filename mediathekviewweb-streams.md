@@ -3,7 +3,7 @@
 ## RSS Feeds
 
 - http://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml
-- https://mediathekviewweb.de/feed?query=vienna%20blood
+- http://mediathekviewweb.de/feed?query=vienna%20blood
 
 ## Technical Details
 
