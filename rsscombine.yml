@@ -10,13 +10,8 @@ cache_timeout_seconds: 3600
 s3_bucket: rsscombine
 s3_filename: engineering-manager-blogs.xml
 feed_urls: https://raw.githubusercontent.com/chase-seibert/new-york-times-rss-top-100/master/README.md
-feed_exclude_prefixes:
-  - https://raw.githubusercontent.com/
-  - https://github.com/chase-seibert/rsscombine
-  - https://engineering-manager-blogs.herokuapp.com/
-  - https://s3-us-west-2.amazonaws.com/rsscombine/
 feeds:
-  - http://feeds.feedburner.com/TechCrunch
-  - http://feeds.arstechnica.com/arstechnica/technology-lab
-  - http://www.reddit.com/r/technology/.rss
-  - http://rss.slashdot.org/slashdot/slashdotMainatom
+  - https://mediathekviewweb.de/feed?query=vienna%20blood
+  - https://mediathekviewweb.de/feed?query=Sloborn  
+  - https://mediathekviewweb.de/feed?query=dead%20end
+  - https://mediathekviewweb.de/feed?query=Der%20junge%20Inspektor%20Morse
