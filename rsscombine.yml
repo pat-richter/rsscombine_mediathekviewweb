@@ -7,6 +7,8 @@ port: 8080
 server_timeout_seconds: 60
 client_timeout_seconds: 60
 cache_timeout_seconds: 3600
+s3_bucket: rsscombine
+s3_filename: engineering-manager-blogs.xml
 feed_exclude_prefixes:
   - https://raw.githubusercontent.com/
   - https://github.com/chase-seibert/rsscombine
